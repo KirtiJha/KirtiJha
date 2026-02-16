@@ -42,7 +42,7 @@ Visual studio for building and managing **Orchestrate/ADK-based agentic workflow
 - **Enterprise Integration**: Connect to IBM Enterprise systems and LLMs
 - **Full Observability**: Monitor agent execution, decisions, and tool calls
 
-### 🤝 LangGraph Salesforce Code Agent  
+### 🤝 LangGraph Salesforce Code Agent
 **[github.com/KirtiJha/langgraph-salesforce-code-agent](https://github.com/KirtiJha/langgraph-salesforce-code-agent)**
 
 Multi-agent **LangGraph** system for Salesforce development (part of IBM ISC-CodeConnect). Combines RAG, tool use, and code generation into intelligent development workflows.
@@ -75,80 +75,79 @@ AI assistant for navigating and querying **code + documentation** together—ide
 
 Additional AI projects where I combine RAG, LLMs, and developer workflows:
 
-- 🐙 **GitPal** – Conversational interface over any public GitHub repo using IBM Watsonx, LangChain, FAISS, and Streamlit
-- 📄 **Watsonx-RAG-Ask-Doc** – Chat with any PDF using IBM Watsonx-powered RAG  
-- 📊 **chat-complex-pdf-LlamaParse** – Handle complex tabular PDFs with Watsonx + LlamaParse
-- 🦊 **DataFox** – Data processing and analysis toolkit for efficient, repeatable workflows
+- 🤖 **[GitPal](https://github.com/KirtiJha/GitPal)** – Conversational interface over any public GitHub repo using IBM Watsonx, LangChain, FAISS, and Streamlit
+- 📄 **[Watsonx-RAG-Ask-Doc](https://github.com/KirtiJha/Watsonx-RAG-Ask-Doc)** – Chat with any PDF using IBM Watsonx-powered RAG
+- 📊 **[chat-complex-pdf-LlamaParse](https://github.com/KirtiJha/chat-complex-pdf-LlamaParse)** – Handle complex tabular PDFs with Watsonx + LlamaParse
+- 📈 **[DataFox](https://github.com/KirtiJha/DataFox)** – Data processing and analysis toolkit for efficient, repeatable workflows
 
 ---
 
 ## Open Source & Other Projects
 
-### Agentic & LangGraph
-- **langgraph-interrupt-workflow-template** - Production-ready LangGraph interrupt template with modern web interface
-- **langgraph-mcp-studio** - MCP Client built with Watsonx AI and LangGraph
-- **langgraph-interrupt-workflow-desktop-app** - Desktop app for LangGraph interrupt workflows
-- **code-historian** - AI-powered VS Code extension for code history tracking with RAG
-- **isc-code-connect-chat** - Copilot Chat extension for VS Code - ISC Code Connect
-- **digital-twin** - AI Digital Twin deployed on AWS with Terraform
+### ### Agentic & LangGraph
 
-### MCP Servers & Tools  
-- **carbon-salesforce-mcp** - MCP server providing direct access to IBM's Carbon for Salesforce
-- **mcp-server-isc-salesforce** - Salesforce ISC MCP Server
-- **watsonx-pr-review-agent** - Watsonx powered AI agent to review pull requests
-- **SpecWiz** - ARB Technical Specifications companion powered by IBM Watsonx Gen AI
+- **[langgraph-interrupt-workflow-template](https://github.com/KirtiJha/langgraph-interrupt-workflow-template)** - Production-ready LangGraph interrupt template with modern web interface
+- **[langgraph-mcp-studio](https://github.com/KirtiJha/langgraph-mcp-studio)** - MCP Client built with Watsonx AI and LangGraph
+- **[langgraph-interrupt-workflow-desktop-app](https://github.com/KirtiJha/langgraph-interrupt-workflow-desktop-app)** - Desktop app for LangGraph interrupt workflows
+- **[code-historian](https://github.com/KirtiJha/code-historian)** - AI-powered VS Code extension for code history tracking with RAG
+- **[isc-code-connect-chat](https://github.com/KirtiJha/isc-code-connect-chat)** - Copilot Chat extension for VS Code - ISC Code Connect
+- **[digital-twin](https://github.com/KirtiJha/digital-twin)** - AI Digital Twin deployed on AWS with Terraform
 
-### Full-Stack & Microservices
-- **chat-multiple-pdf** - Chat multiple PDF
-- **Responsive-Website** - Responsive website design using Bootstrap 4
-- **HTML5-Responsive-Website** - HTML5 Responsive Website Design
-- **HTML5-Cheat-Sheet** - HTML5 Cheat Sheet
-- **CSS3-Cheat-Sheet** - CSS3 Cheat Sheet
-- **Apache-Pig-Project** - Country Project
+### ### MCP Servers & Tools
 
-### Supporting Tools & Utilities
-- **KirtiJha** - Config files for my GitHub profile
-- **availability-slack-bot** - Slack bot to manage team's availability, status, anniversary, etc.
+- **[carbon-salesforce-mcp](https://github.com/KirtiJha/carbon-salesforce-mcp)** - MCP server providing direct access to IBM's Carbon for Salesforce
+- **[mcp-server-isc-salesforce](https://github.com/KirtiJha/mcp-server-isc-salesforce)** - Salesforce ISC MCP Server
+- **[watsonx-pr-review-agents](https://github.com/KirtiJha/watsonx-pr-review-agents)** - Watsonx powered AI agent to review pull requests
+- **[SpecWiz](https://github.com/KirtiJha/SpecWiz)** - ARB Technical Specifications companion powered by IBM Watsonx Gen AI
+
+### ### Full-Stack & Microservices
+
+- **[chat-multiple-pdf](https://github.com/KirtiJha/chat-multiple-pdf)** - Chat multiple PDF
+- **[Responsive-Website](https://github.com/KirtiJha/Responsive-Website)** - Responsive website design using Bootstrap 4
+- **[HTML5-Responsive-Website](https://github.com/KirtiJha/HTML5-Responsive-Website)** - HTML5 Responsive Website Design
+- **[HTML5-Cheat-Sheet](https://github.com/KirtiJha/HTML5-Cheat-Sheet)** - HTML5 Cheat Sheet
+- **[CSS3-Cheat-Sheet](https://github.com/KirtiJha/CSS3-Cheat-Sheet)** - CSS3 Cheat Sheet
+- **[Apache-Pig-Project](https://github.com/KirtiJha/Apache-Pig-Project)** - Country Project
+
+### ### Supporting Tools & Utilities
+
+- **[KirtiJha](https://github.com/KirtiJha/KirtiJha)** - Config files for my Github profile
+- **[availability-slack-bots](https://github.com/KirtiJha/availability-slack-bots)** - Slack bot to manage team's availability, status, anniversary, etc.
 
 ---
 
-## Tech Stack 💻
+## Languages
 
-### Agentic AI, MCP & Orchestration
-- **LangGraph**, **LangChain**, **Model Context Protocol (MCP)**
-- Multi-agent systems, human-in-the-loop workflows
-- **IBM Watsonx.ai** (Granite models), RAG pipelines, vector search
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Frontend
 
-### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+## Backend & Cloud
 
-### Tools & Platforms
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE7?style=for-the-badge&logo=ibm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Tools & Platforms
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
 ## GitHub Stats 📊
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirtiJha&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/KirtiJha)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiJha&layout=compact&langs_count=7&theme=dark)](https://github.com/KirtiJha)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirtiJha&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiJha&layout=compact&theme=dark)
 
 ---
 
-## Let's Connect! 🤝
+## Let's Connect! 💬
 
-I'm always excited to collaborate on **agentic AI**, **MCP ecosystem expansion**, and **enterprise AI tooling**.
+I'm always excited to collaborate on **agentic AI**, **MCP ecosystem expansions**, and **enterprise AI tooling**.
 
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/kirtijha)
-- 📄 **Medium:** [Read my articles](https://medium.com/@kirtinathjha)
-- 🐦 **Twitter:** [@kirtijha](https://twitter.com/kirtijha)
-- 📧 **Email:** Available on request
+- 🔗 **LinkedIn**: [Connect with me](https://linkedin.com/in/kirtijha)
+- 📖 **Medium**: [Read my articles](https://medium.com/@kirtinathjha)
+- 🐦 **Twitter**: [@kirtijha](https://twitter.com/kirtijha)
+- 📧 **Email**: Available on request
 
 ---
-
-⭐️ *"Building the future of agentic AI, one commit at a time."*
