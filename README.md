@@ -1,6 +1,6 @@
 # Hi there! I'm Kirti Jha 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirtijha) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KirtiJha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirtijha) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kirtinathjha) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KirtiJha)
 
 ## About Me 🚀
 
@@ -82,6 +82,36 @@ Additional AI projects where I combine RAG, LLMs, and developer workflows:
 
 ---
 
+## Open Source & Other Projects
+
+### Agentic & LangGraph
+- **langgraph-interrupt-workflow-template** - Production-ready LangGraph interrupt template with modern web interface
+- **langgraph-mcp-studio** - MCP Client built with Watsonx AI and LangGraph
+- **langgraph-interrupt-workflow-desktop-app** - Desktop app for LangGraph interrupt workflows
+- **code-historian** - AI-powered VS Code extension for code history tracking with RAG
+- **isc-code-connect-chat** - Copilot Chat extension for VS Code - ISC Code Connect
+- **digital-twin** - AI Digital Twin deployed on AWS with Terraform
+
+### MCP Servers & Tools  
+- **carbon-salesforce-mcp** - MCP server providing direct access to IBM's Carbon for Salesforce
+- **mcp-server-isc-salesforce** - Salesforce ISC MCP Server
+- **watsonx-pr-review-agent** - Watsonx powered AI agent to review pull requests
+- **SpecWiz** - ARB Technical Specifications companion powered by IBM Watsonx Gen AI
+
+### Full-Stack & Microservices
+- **chat-multiple-pdf** - Chat multiple PDF
+- **Responsive-Website** - Responsive website design using Bootstrap 4
+- **HTML5-Responsive-Website** - HTML5 Responsive Website Design
+- **HTML5-Cheat-Sheet** - HTML5 Cheat Sheet
+- **CSS3-Cheat-Sheet** - CSS3 Cheat Sheet
+- **Apache-Pig-Project** - Country Project
+
+### Supporting Tools & Utilities
+- **KirtiJha** - Config files for my GitHub profile
+- **availability-slack-bot** - Slack bot to manage team's availability, status, anniversary, etc.
+
+---
+
 ## Tech Stack 💻
 
 ### Agentic AI, MCP & Orchestration
@@ -90,7 +120,7 @@ Additional AI projects where I combine RAG, LLMs, and developer workflows:
 - **IBM Watsonx.ai** (Granite models), RAG pipelines, vector search
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -115,6 +145,7 @@ Additional AI projects where I combine RAG, LLMs, and developer workflows:
 I'm always excited to collaborate on **agentic AI**, **MCP ecosystem expansion**, and **enterprise AI tooling**.
 
 - 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/kirtijha)
+- 📄 **Medium:** [Read my articles](https://medium.com/@kirtinathjha)
 - 🐦 **Twitter:** [@kirtijha](https://twitter.com/kirtijha)
 - 📧 **Email:** Available on request
 
